@@ -69,7 +69,6 @@ A minimum of two arguments must be provided. Otherwise, a TypeError is raised.
     'm_a' and 'm_b'
 
 ValueErrors
-===========
 
 If two matrices cannot be multiplied (ie. the row count of ``m_a`` is not
 equal to the column count in ``m_b``), a ValueError is raised.
@@ -112,7 +111,6 @@ is raised.
     ValueError: m_a can't be empty
 
 Invalid Matrices
-================
 
 The parameters ``m_a`` and ``m_b`` must be lists. If either parameter is
 not a list, a TypeError is raised.
