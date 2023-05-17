@@ -118,3 +118,4 @@ id  name
 8   Thriller
 $
 
+![bc2575fee3303b731031](https://github.com/AyanSwarga/alx-higher_level_programming/assets/117749127/22ef7414-ccbe-4acf-9e75-28d4392714a4)
