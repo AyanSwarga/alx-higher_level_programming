@@ -1,3 +1,5 @@
+![66988091](https://github.com/AyanSwarga/alx-higher_level_programming/assets/117749127/35fee14c-13bd-42a4-b076-261ced849827)
+
 #### 0x0E. SQL - More queries
 
 ### Resources
