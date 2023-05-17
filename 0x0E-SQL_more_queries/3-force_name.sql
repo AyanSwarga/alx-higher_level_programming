@@ -1,4 +1,4 @@
-----This script creates the table force_name on my MySQL server.
+---- This script creates the table force_name on my MySQL server.
 
 CREATE TABLE IF NOT EXISTS `force_name` (
     `id`   INT,
