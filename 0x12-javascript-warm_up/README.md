@@ -7,6 +7,7 @@ JavaScript is used for many things. Here, you will use JavaScript for 2 reasons:
 Scripting (same as we did with Python)
 Web front-end
 For the moment, and for learning all basic concepts of this language, we will do some scripting. After, we will make our AirBnB project dynamic by using Javascript and JQuery.
+![Javascript-535 png](https://github.com/AyanSwarga/alx-higher_level_programming/assets/117749127/5d6b6f41-af03-4938-90a1-8fae578f7bcf)
 
 
 
