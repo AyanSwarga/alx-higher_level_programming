@@ -6,5 +6,4 @@ exports.converter = function (base) {
   }
 
   return myConverter;
-
 };
