@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""
-This script prints all City objects
+""" This script creates the `State` with the City
 from the database `hbtn_0e_14_usa`.
 """
 
@@ -11,8 +10,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
 if __name__ == "__main__":
-    """
-    Access to the database and get the cities
+    """ Access to the database and get the cities
     from the database.
     """
 
