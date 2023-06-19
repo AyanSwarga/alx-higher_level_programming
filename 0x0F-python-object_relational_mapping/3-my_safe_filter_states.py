@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-""" 
-This script takes in an argument and
+""" This script takes in an argument and
 displays all values in the states table of
 `hbtn_0e_0_usa` where `name` matches the argument.
 This time the script is safe from
@@ -11,8 +10,7 @@ import MySQLdb as db
 from sys import argv
 
 if __name__ == "__main__":
-    """
-    Access to the database and get the states
+    """ Access to the database and get the states
     from the database.
     """
     db_connect = db.connect(host="localhost", port=3306,
