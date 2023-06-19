@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""
-This script lists all State objects
+""" This script lists all State objects
 from the database `hbtn_0e_6_usa`.
 """
 
@@ -10,8 +9,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
 if __name__ == "__main__":
-    """
-    Access to the database and get the states
+    """ Access to the database and get the states
     from the database.
     """
 
